@@ -16,4 +16,3 @@ if (process.argv.length === 3) {
   const filePath = process.argv[2];
   readFile(filePath);
 }
-
